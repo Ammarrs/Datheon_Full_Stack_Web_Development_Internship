@@ -17,7 +17,7 @@ function Featured() {
       ],
       demoLink: "https://b-lock-react.vercel.app/",
       reboLink: "https://github.com/Ammarrs/bLock-react",
-      thumbnail: "/public/images/projects/tinified/bLock.png",
+      thumbnail: "/images/projects/tinified/bLock.png",
     },
     {
       id: 2,
@@ -31,7 +31,7 @@ function Featured() {
       ],
       demoLink: "https://lustro-kappa.vercel.app/",
       reboLink: "https://github.com/Ammarrs/Lustro",
-      thumbnail: "/public/images/projects/tinified/pulse.png",
+      thumbnail: "/images/projects/tinified/pulse.png",
     },
     {
       id: 3,
@@ -45,7 +45,7 @@ function Featured() {
       ],
       demoLink: "https://drive.google.com/drive/folders/1ZYzpMbLcUoy6nBCae5_Pe4tbJrRYyQrM",
       reboLink: "https://github.com/Ammarrs/metro_mate",
-      thumbnail: "/public/images/projects/tinified/metromateDesign.png",
+      thumbnail: "/images/projects/tinified/metromateDesign.png",
     },
   ];
 
