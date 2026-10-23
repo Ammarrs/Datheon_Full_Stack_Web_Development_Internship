@@ -27,14 +27,14 @@ function ProjectCard({
         </div>
         <hr className="border border-brdr-color" />
         <div className="btns flex gap-5 items-center text-txt-sec-4">
-          <Link to={demoLink} className="live-demo flex gap-1 items-center">
+          <a href={demoLink} target="_blank" className="live-demo flex gap-1 items-center">
             <GoArrowUpRight />
             <span>Live Demo</span>
-          </Link>
-          <Link to={repoLink} className="github flex gap-1 items-center">
+          </a>
+          <a href={repoLink} target="_blank" className="github flex gap-1 items-center">
             <TbBrandGithub />
             <span>Github</span>
-          </Link>
+          </a>
         </div>
       </div>
     </div>
