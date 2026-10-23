@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --color-txt-prm: #111827;
+  --color-txt-sec: #4B5563;
+  --color-txt-sec-2: #6B7280;
+  --color-txt-sec-3: #FFF;
+  --color-txt-sec-4: #6366F1;
+  --color-tag-bg: #F3F4F6;
+  --color-tag-bg-2: #EEF2FF;
+  --color-bg-prm: #6366F1;
+  --color-bg-sec: #FFF;
+  --color-bg-sec-2: #F8F8F8;
+  --color-brdr-color: #D1D5DB;
+}
+
+.active {
+  color: #6366F1;
+  font-weight: bold;
+}
