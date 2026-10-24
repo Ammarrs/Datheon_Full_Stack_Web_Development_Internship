@@ -8,7 +8,7 @@ function About() {
     <div className="flex flex-col gap-12 py-18 px-40">
       <div className="title flex flex-col gap-4">
         <span className="title text-5xl font-bold">About</span>
-        <span className="subtitle text-txt-sec">
+        <span className="subtitle text-txt-sec-2">
           A little about the person behind the interfaces.
         </span>
       </div>
