@@ -1,5 +1,5 @@
 import React from "react";
-import EduCard from "../components/eduCard";
+import EduCard from "../components/EduCard";
 import SkillCard from "../components/SkillCard";
 import InterestsCard from "../components/InterestsCard";
 
