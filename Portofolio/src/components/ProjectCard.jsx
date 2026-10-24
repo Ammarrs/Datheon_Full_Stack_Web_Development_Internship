@@ -15,7 +15,7 @@ function ProjectCard({
 
   return (
     <div className=" rounded-xl border-2 border-brdr-color grid grid-rows-4">
-      <div className="display row-span-2 bg-[url(${thumbnail})] bg-cover bg-center rounded-t-x">
+      <div className="display row-span-2 rounded-t-xl">
         <img className="rounded-t-xl h-full" src={thumbnail} alt="" srcset="" />
       </div>
       <div className="details row-span-2 p-6 flex flex-col gap-5.5">

@@ -2,7 +2,7 @@ import React from "react";
 
 function Tools({ tools = [] }) {
   return (
-    <div className="tools flex gap-2">
+    <div className="tools flex flex-wrap gap-2">
       {tools.map((tool, index) => (
         <div
           key={index}

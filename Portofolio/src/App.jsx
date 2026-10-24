@@ -18,7 +18,7 @@ function App() {
     ]}
   ])
   return (
-    <div>
+    <div className="text-txt-prm">
       <RouterProvider router={routes}/>
     </div>
   );
